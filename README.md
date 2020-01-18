@@ -7,7 +7,9 @@ Software yang digunakan :
 
 Cara menjalankan :
 1. (File -> 1.js)
-Ketika dijalankan, pada console browser akan menampilkan biodata saya dalam bentuk di JSON
+Ketika dijalankan, pada console browser akan menampilkan biodata saya dalam format JSON.
+
+Kegunaan JSON pada REST API adalah sebagai format standar untuk pertukaran data antar satu program dengan program yang lainnya melalui API. JSON digunakan karena dapat dimengerti oleh manusia dan berbagai bahasa pemrograman.
 
 2. (File -> 2.js) - Contoh penggunaan : usernameValidity('masgalih20') atau passwordValidity('1WORLD!')
 Ketika dijalankan, pada console browser inputkan fungsi usernameValidity diikuti string username yang ingin inputkan di dalamnya. Kemudian tekan enter. Console akan mengembalikan nilai true jika username sesuai dengan aturan yang ditetapkan, dan akan mengembalikan nilai false jika tidak sesuai.
