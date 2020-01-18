@@ -23,3 +23,5 @@ Ketika dijalankan, pada console browser inputkan fungsi kata diikuti string cont
 Ketika dijalankan, pada console browser inputkan fungsi cetak_gambar diikuti angka yang ingin inputkan di dalamnya. Kemudian tekan enter. Jika yang diinputkan bukan angka atau angka tidak ganjil console akan mengembalikan sebuah pesan "Parameter harus angka dan ganjil!". Jika yang diinputkan angka ganjil maka console akan menampilkan hasil dari fungsi.
 
 5. (File -> 5.js)
+
+Ket : "Maaf no 5 dan 6 belum bisa dijalankan"
